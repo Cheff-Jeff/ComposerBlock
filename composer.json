@@ -3,7 +3,7 @@
   "description": "testblock from composer",
   "autoload": {
     "psr-4": {
-      "Cheffjeff\\LyfterComposerBlock\\CheffJeffTest\\": "src/CheffJeffTest"
+      "Cheffjeff\\LyfterComposerBlock\\CheffJeffTest\\": "src/"
     }
   },
   "authors": [
