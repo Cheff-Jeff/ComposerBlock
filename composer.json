@@ -1,15 +1,15 @@
 {
-    "name": "cheffjeff/lyfter-composer-block",
-    "description": "testblock from composer",
-    "autoload": {
-        "psr-4": {
-            "Cheffjeff\\LyfterComposerBlock\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "CheffJeff"
-        }
-    ],
-    "require": {}
+  "name": "cheffjeff/lyfter-composer-block",
+  "description": "testblock from composer",
+  "autoload": {
+    "psr-4": {
+      "Cheffjeff\\LyfterComposerBlock\\": "src/CheffJeffTest"
+    }
+  },
+  "authors": [
+    {
+      "name": "CheffJeff"
+    }
+  ],
+  "require": {}
 }

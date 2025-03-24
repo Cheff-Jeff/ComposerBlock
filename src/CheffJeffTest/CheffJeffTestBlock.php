@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Cheffjeff\LyfterComposerBlock;
+namespace Cheffjeff\LyfterComposerBlock\CheffJeffTest;
 
 
 use Lyfter\Blocks\BladeBlock;
